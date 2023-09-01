@@ -1,2 +1,2 @@
 # MVC-Customerized
-Customerized Model Page Builde with MVC
+Customerized Model Page build with MVC
